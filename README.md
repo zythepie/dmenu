@@ -1,3 +1,3 @@
 # dmenu
 
-My build of dmenu.
+My dmenu build.
